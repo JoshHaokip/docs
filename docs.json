@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Workouts",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Meal Planning",
             "pages": [
               "essentials/markdown",
               "essentials/code",
